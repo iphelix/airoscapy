@@ -1,9 +1,9 @@
-Airoscapy is a passive wireless access point scanner similar to Kismet and Aircrack. The tool was built to demonstrate the power of [Scapy](/research/scapy) as a generic and powerful network monitoring library.
+Airoscapy is a passive wireless access point scanner similar to Kismet and Aircrack. The tool was built to demonstrate the power of Scapy as a generic and powerful network monitoring library.
 
 Scapy
 ====
 
-The tool requires installation of [Scapy](/research/scapy). You can obtain [Scapy](/research/scapy) either directly from the developer <http://www.secdev.org/projects/scapy/> or use your operating system's packaging system to download and install it. For example, here is how you would set it up on an Ubuntu system:
+The tool requires installation of Scapy. You can obtain Scapy either directly from the developer <http://www.secdev.org/projects/scapy/> or use your operating system's packaging system to download and install it. For example, here is how you would set it up on an Ubuntu system:
 
     sudo apt-get install python-scapy
 
